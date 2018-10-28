@@ -1,1 +1,1 @@
-# AppiumModel 1.1
+# AppiumModel 1.2
